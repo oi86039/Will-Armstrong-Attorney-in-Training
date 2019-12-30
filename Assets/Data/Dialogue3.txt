@@ -1,0 +1,30 @@
+Event;East-West Court Lobby | Date: July 26th, 2017 | Time: 5:30 pm;1;0
+Cynthia;You did it, Will! You really did it!;2;M;W;1;6
+Will;Wow. I did, didn't I?;6;M;W;1;0
+Will;I couldn't have done this without you.;6;M;W;1;0
+Cynthia;Nonsense! You were amazing in there!;2;M;W;1;0
+Cynthia;I can't believe that Ms. Chang was the real murderer!;0;M;W;1;0
+Cynthia;I mean, she was a bit cold, but I never thought she could do such a thing!;1;M;W;1;0
+Will;I didn't believe it myself at first, but the facts added up.;6;M;W;1;0
+Will;And if you were innocent, she had to be guilty.;6;M;W;1;0
+Cynthia;In a way, I kinda feel sorry for her...;1;M;W;1;0
+Cynthia;Any idea why she would go so far as to murder Mr. Sullivan?;0;M;W;1;0
+Will;My guess is that she was fired after that failed operation.;6;M;W;1;0
+Will;She must have held a grudge. Being a surgeon is quite a huge deal, after all.;6;M;W;1;0
+Daniels;William!;2;M;W;1;0
+Will;Ms. Daniels!;5;M;W;1;0
+Daniels;Very well done! Even I didn't know where that was heading.;0;M;W;1;0
+Daniels;But you stuck to your guns and won in the end!;0;M;W;1;0
+Daniels;I'm proud of you.;2;M;W;1;0
+Will;Thank you, Ms. Daniels! You really helped me spread my wings!;5;M;W;1;0
+Will;I couldn't have done this without either of you!;5;M;W;1;0
+Daniels;Aww. You're too kind.;2;M;W;1;0
+Daniels;But enough about me. You two have your freedom to celebrate!;2;M;W;1;0
+Cynthia;Yeah! You're right! Let's get out of here!;2;M;W;1;0
+Will;Wait, Cynth, come back!;6;M;W;1;0
+Daniels;Ha ha ha ha ha!;2;M;W;1;0
+Event;As the case reached its conclusion, Will and Cynthia exited the court and made back for their home.;0;0
+Event;Although the week for them was rough, they were able to persevere and reach their happy ending.;0;0
+Event;This is the end for Will Armstrong: Attorney in Training.;0;0
+Event;Thank you for playing!;0;0
+Player; Exit game:exit,0

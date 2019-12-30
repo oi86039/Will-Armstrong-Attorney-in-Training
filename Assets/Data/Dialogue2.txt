@@ -1,0 +1,930 @@
+Event;East-West Courtroom #1 | Date: July 26th, 2017 | Time: 2:30 pm;0;0
+Judge;The trial of Cynthia Meyers is now in session.;0;M;W;3;2
+Richards;The prosecution is ready, your Honor.;0;R;W;5;0
+Will;The, um, defense is also ready, your Honor.;1;L;W;4;0
+Judge;Hmmm...;0;M;W;3;0
+Will;I-Is something wrong?;1;L;W;4;0
+Judge;Quite. I'm not sure I would entrust such a case to a... first timer...;0;M;W;3;0
+Judge;The matter at hand is quite serious after all.;0;M;W;3;0
+Will;(Gee, thanks...);3;L;B;4;0
+Judge;I was under the impression that Ms. Daniels would be defending Miss Meyers today.;0;M;W;3;0
+Judge;I make no exaggeration when I say that you are one of the best attorneys of this age.;0;M;W;3;0
+Daniels;You're too kind, your Honor. However,;2;M;W;6;0
+Daniels;The client specifically requested that Mr. Armstrong defend her.;0;M;W;6;0
+Daniels;And who am I to detest a request?;2;M;W;6;0
+Judge;Fair enough, I suppose. Though this may hurt her case...;0;M;W;3;0
+Richards;Oh please. Let the greenhorn defend his mistress.;1;R;W;5;0
+Richards;Frankly, it only makes my job easier.;0;R;W;5;0
+Will;(Grrr... Who you calling greenhorn?);1;L;B;4;0
+Judge;Regardless, if Ms. Daniels is trusting of him, I will let him have his chance.;0;M;W;3;0
+Judge;The prosecution will now present its case to the court.;0;M;W;3;0
+Richards;With pleasure. Ahem.;1;R;W;5;0
+Richards;Brian O' Sullivan, CEO of Andromeda Hospital, was found dead in his office a few days ago.;0;R;W;5;0
+Richards;The autopsy report from the forensics department reveals that he died due to heart failure.;0;R;W;5;0
+Daniels;The poor thing. He died too soon...;0;M;W;6;0
+Richards;However, this failure was not naturally caused.;0;R;W;5;0
+Richards;And the prosecution has a decisive witness to prove that this failure...;0;R;W;5;0
+Richards;...was due to Ms. Meyers!;1;R;R;5;0
+Will;(Wait, he has evidence, AND a witness?!!);1;L;B;4;0
+Will;(Why wasn't I told about this?!!);3;L;B;4;0
+Daniels;Relax, Armstrong. You're sweating up a storm...;1;M;W;6;0
+Daniels;Things may look bad, but you'll get your chance.;0;M;W;6;0
+Will;I hope so...;5;M;W;6;0
+Judge;If I heard you correctly, Mr. Richards, you said you had a decisive witness.;1;M;W;3;0
+Judge;If that's the case, then this case should be over rather quickly!;1;M;W;3;0
+Judge;You may call this witness to the stand!;0;M;W;3;0
+Richards;Certainly, your honor.;0;R;W;5;0
+Event;;0;-1
+Yuri;...;0;M;W;7;2
+Richards;Witness, please state your name and occupation.;2;R;W;5;0
+Yuri;Yuri Chang, ex-Doctor. I am currently unemployed.;0;M;W;7;0
+Richards;Now then, Ms. Chang...;0;R;W;5;0
+Richards;I would like you to testify about what you saw at 2:00pm on July 14th.;1;R;W;5;0
+Will;(He's getting right to the thick of it...);1;L;B;4;0
+Will;Ms. Daniels, what do I do?;5;M;W;6;0
+Daniels;Just pay attention. You'll get your chance.;3;M;W;6;0
+Yuri;Very well. I will testify.;1;M;W;7;0
+Yuri;Testimony 1: What I Saw;0;M;R;7;-1
+Yuri;I was walking in in the halls close to the main office,;2;M;G;7;3
+Yuri;When all of a sudden, there was a loud crashing sound.;0;M;G;7;0
+Yuri;I turned and ran towards the office where the sound originated,;1;M;G;7;0
+Yuri;...and saw a woman running away. I peeked inside...;0;M;G;7;0
+Yuri;Only to see that Mr. Sullivan... had been shot to death!;3;M;G;7;0
+Yuri;The person who ran...it was definitely her!;0;M;G;7;0
+Judge;Hmm...;0;M;W;3;-1
+Judge;You claim to have seen the defendant run away?;0;M;W;3;0
+Yuri;Indeed. I ran away myself to call for help.;0;M;W;7;0
+Judge;I see. Mr. Armstrong.;0;M;W;3;0
+Will;Y-Yes, your Honor?;1;L;W;4;0
+Judge;You may now begin your cross examination.;0;M;R;3;0
+Will;Cross-examination, your Honor?;4;L;W;4;0
+Daniels;This is it, William. This is your chance!;3;M;W;6;1
+Daniels;Somewhere in her testimony, Yuri is lying.;0;M;W;6;0
+Daniels;It's up to you to find out where.;0;M;W;6;0
+Will;She was lying? Her testimony is-;5;M;W;6;0
+Daniels;Poorly constructed. Like a stack of building blocks.;1;M;W;6;0
+Daniels;Just put out the rug from under it, and her testimony will topple.;1;M;W;6;0
+Will;Ok... I guess I can try.;5;M;W;6;0
+Daniels;Cross-examination is simple.;0;M;W;6;0
+Daniels;Go through her testimony slowly and compare her words to the evidence in the Court Record.;0;M;W;6;0
+Daniels;If something doesn't match up, present the evidence that contradicts her words!;1;M;R;6;0
+Will;Alright. Sounds simple enough...;5;M;W;6;0
+Will;(Don't worry Cynth. Like you said...);4;L;B;4;0
+Will;(Where there's a Will, there's a way!);1;L;B;4;-1
+Yuri;Cross Examination 1: What I saw;0;M;R;7;3
+Yuri;1) I was walking in the halls close to the main office,;2;M;G;7;0
+Player;Press:line,78;Present:line,77;Next Line:line,85
+Player;Autopsy Report:line,148;Orange Envelope:line,148;Go Back:line,76
+Will;Wait a second!;1;L;W;4;0
+Will;Why were you walking close to the main office?;1;L;W;4;0
+Yuri;I was actually heading to the office to meet with Mr. Sullivan.;0;M;W;7;0
+Yuri;His secretary had called me for lunch and told me to meet him there.;1;M;W;7;0
+Will;(I guess that makes sense...);4;L;B;4;0
+Richards;The defense will refrain from asking trivial questions.;2;R;W;5;0
+Richards;Witness, please continue.;0;R;W;5;0
+Yuri;2) All of a sudden, there was a loud crashing sound.;0;M;G;7;0
+Player;Press:line,88;Present:line,87;Previous Line:line,75;Next Line:line,92
+Player;Autopsy Report:line,148;Orange Envelope:line,148;Go Back:line,86
+Will;Wait a second!;1;L;W;4;0
+Will;A loud crashing sound?!!;4;L;W;4;0
+Yuri;Yes. It was very brief, but it was certainly enough to raise concern.;0;M;W;7;0
+Yuri;I couldn't make out the sound, but I was startled, nonetheless.;2;M;W;7;0
+Yuri;3) I turned and ran towards the office where the sound originated,;1;M;G;7;0
+Player;Press:line,95;Present:line,94;Previous Line:line,85;Next Line:line,99
+Player;Autopsy Report:line,148;Orange Envelope:line,148;Go Back:line,93
+Will;Wait a second!;1;L;W;4;0
+Will;Why run towards the dangerous sound?;4;L;W;4;0
+Yuri;Though I am easily startled, I am no coward.;0;M;W;7;0
+Yuri;I went to see what the source of that noise was...;1;M;W;7;0
+Yuri;4) ...and I saw a woman running away. I peeked inside...;0;M;G;7;0
+Player;Press:line,102;Present:line,101;Previous Line:line,92;Next Line:line,114
+Player;Autopsy Report:line,148;Orange Envelope:line,148;Go Back:line,100
+Will;Wait a second!;1;L;W;4;0
+Will;How are you so sure that a woman ran away from the scene?;4;L;W;4;0
+Yuri;From what I've seen in these parts, men don't wear skirts and feminine attire.;3;M;W;7;0
+Yuri;Though this is a progressive era, Andromeda is not a progressive hospital.;0;M;W;7;0
+Yuri;Or so I hear...;2;M;W;7;0
+Will;But, it could have been someone else...;1;L;W;4;0
+Richards;Objection!;0;R;W;5;0
+Richards;Let me remind you of the facts, greenhorn.;2;R;W;5;0
+Richards;The only two people near the main office at the time were Ms. Chang and Ms. Meyers.;3;R;W;5;0
+Richards;If anyone were to escape from the scene, it would have to be her.;2;R;W;5;0
+Will;(Gulp...);3;L;B;4;0
+Richards;If the defense if done wasting time, you may continue with your testimony, Ms. Chang.;0;R;W;5;0
+Yuri;5) Only to see that Mr. Sullivan... had been shot to death!;3;M;G;7;0
+Player;Press:line,117;Present:line,116;Previous Line:line,99;Next Line:line,129
+Player;Autopsy Report:line,160;Orange Envelope:line,148;Go Back:line,115
+Will;Wait a second!;1;L;W;4;0
+Will;Shot to death?!! How is that possible?;4;L;W;4;0
+Yuri;The crashing noise would have to have been the gunshot.;1;M;W;7;0
+Yuri;It's...just too difficult to remember the image...;6;M;W;7;0
+Judge;Now now, Ms. Chang. It will be over soon.;0;M;W;3;0
+Judge;Just bear with us and you'll be out of here in time for supper!;1;M;W;3;0
+Will;(D-Don't take her side, your Honor...);3;L;B;4;0
+Daniels;William. Did you notice what she just said?;0;M;W;6;0
+Will;Yes. Why?;5;M;W;6;0
+Daniels;Pay attention to her statement and look at the Court Record again.;0;M;W;6;0
+Daniels;You may just find something!;1;M;W;6;0
+Will;Alright. If you really say so...;5;M;W;6;0
+Yuri;6) The person who ran...it was definitely her!;0;M;G;7;0
+Player;Press:line,132;Present:line,131;Previous Line:line,114;Next Line:line,139
+Player;Autopsy Report:line,148;Orange Envelope:line,148;Go Back:line,130
+Will;Wait a second!;1;L;W;4;0
+Will;How can you be so sure?;4;L;W;4;0
+Yuri;Her clothes, her hair, it all matches!;1;M;W;7;0
+Yuri;I couldn't have possibly forgotten.;3;M;W;7;0
+Richards;In addition, it could not have been possible for anyone else to have left.;2;R;W;5;0
+Richards;The only people who were present near his office were Ms. Chang and Ms. Meyers.;3;R;W;5;0
+Richards;Ergo, only Ms. Meyers could have left the scene.;2;R;W;5;0
+Will;Is Yuri really lying?;5;M;W;6;0
+Daniels;Ms. Meyers is innocent, correct?;1;M;W;6;0
+Daniels;Then Ms. Chang has to be lying.;0;M;W;6;0
+Daniels;Unless, of course, Cynthia is really...guilty.;3;M;W;6;0
+Will;Of course not!;5;M;W;6;0
+Daniels;That's the spirit. Use the Court Record to find a contradiction in her words.;1;M;W;6;0
+Daniels;Present the contradicting evidence in order to rip her testimony to shreds.;1;M;W;6;0
+Daniels;You can do this, Armstrong.;0;M;W;6;0
+Player;Restart testimony:line,75
+Will;Objection!;1;L;W;4;0
+Will;Your Honor, this evidence proves that the witness is lying!;2;L;W;4;0
+Judge;Really? How?;2;M;W;3;0
+Will;W-Well, it's...uh...quite clear that, uh...;3;L;W;4;0
+Judge;...I'm afraid that this evidence does nothing for your case.;0;M;W;3;0
+Judge;You will be penalized.;0;M;R;3;0
+Health;3;0
+Will;(This isn't good...);3;L;B;4;0
+Daniels;William, stay focused. You can't afford to make mistakes...;0;M;W;6;0
+Daniels;Just pay attention to her words and the Court Record.;1;M;W;6;0
+Daniels;If something doesn't match up, present the evidence that contradicts her words.;0;M;R;6;0
+Player;Restart Testimony:line,75
+Will;Objection!;1;L;W;4;-1
+Will;Ms. Chang, you claimed that Mr. Sullivan had been shot to death.;2;L;W;4;0
+Will;Is that correct?;1;L;W;4;0
+Yuri;Yes. He had been shot.;0;M;W;7;0
+Will;If that's so, I'd have to say...;1;L;W;4;0
+Will;...you're quite a bad liar!;7;L;W;4;0
+Yuri;W-What?;2;M;W;7;3
+Will;According to the autopsy report, the victim died due to heart failure, not a gunshot!;2;L;W;4;0
+Yuri;...!;6;M;W;7;0
+Will;If he had really been shot, then why wasn't it mentioned in the autopsy report?;2;L;W;4;0
+Daniels;Excellent work, William! I knew you could do it!;2;M;W;6;0
+Will;Thanks, Ms. Daniels.;5;M;W;6;0
+Judge;Witness, please explain this discrepancy.;0;M;W;3;0
+Judge;Why were you so certain that he had been shot?;1;M;W;3;0
+Yuri;W-Well, I...;5;M;W;7;0
+Richards;Relax, Ms. Chang. I can explain for you.;1;R;W;5;0
+Will;...?;1;L;W;4;0
+Richards;You see, your Honor, the official Autopsy Report only covers so much.;0;R;W;5;0
+Richards;I've taken the liberty of asking the forensics team for additional information.;1;R;W;5;0
+Richards;The results were highly informative.;3;R;W;5;0
+Will;(Grrr... he's prepared...);3;L;B;4;0
+Richards;It appears that a bullet was, in fact, found close to Mr. Sullivan's heart.;3;R;W;5;0
+Richards;Who is to say that Ms. Meyers's shot wasn't the killing factor itself...;1;R;W;5;0
+Richards;But rather that it was the cause of the heart failure?;1;R;W;5;0
+Richards;Hence, an accurate testimony from Ms. Chang.;0;R;W;5;0
+Yuri;Y-Yes. That's right! I know what I saw!;0;M;W;7;0
+Will;...(H-he just took my contradiction and tossed it in the garbage!);3;L;B;4;0
+Will;...(What am I supposed to do now?);3;L;B;4;0
+Richards;Of course, I possess proof for this claim for your perusal.;1;R;W;5;0
+Evidence;Crime Scene photo now usable;5;0
+Evidence;Mr. Sullivan's Medical Chart (Page 1) now usable;5;0
+Judge;Hmm... The prosecution has raised a valid point.;0;M;W;3;0
+Judge;Defense. Can you explain where this bullet came from?;1;M;W;3;0
+Will;Y-Yes, your Honor... If the defense may have a moment...;3;L;W;4;0
+Will;Ms. Daniels... Help!;5;M;W;6;0
+Daniels;Scared yet, Armstrong? You shouldn't be.;0;M;W;6;0
+Daniels;Richards is trying to pull a fast one on you. Don't let him.;1;M;W;6;0
+Daniels;Quickly, look at the description of the photo he just added.;0;M;W;6;0
+Daniels;Read it...carefully. Anything that looks like a throwaway detail may be useful...;0;M;W;6;0
+Daniels;Did you notice anything?;1;M;R;6;0
+Player;His desk...:line,201;His coat...:line,205;Nothing...:line,201
+Daniels;Are you sure you looked at the description thoroughly?;1;M;W;6;0
+Daniels;Try again.;0;M;W;6;0
+Daniels;Do you notice anything odd about the Crime Scene Photo?;0;M;R;6;0
+Player;His desk...:line,201;His coat...:line,205;Nothing:line,201
+Daniels;Right!;3;M;W;6;0
+Daniels;If Cynthia really shot Mr. Sullivan, then there would be a point of entry...;0;M;W;6;0
+Daniels;...aka, a bullet hole in his coat!;1;M;W;6;0
+Judge;Well, Mr. Armstrong? Do you have an answer?;0;M;W;3;0
+Will;Although the defense does not know exactly where the bullet came from...;3;L;W;4;0
+Will;I can rule out the possibility of the defendant shooting the victim.;1;L;W;4;0
+Richards;And how exactly do you plan to prove this, greenhorn?;0;R;W;5;0
+Judge;Well spoken. What proof do you have, Mr. Armstrong?;0;M;W;3;0
+Judge;Present your evidence as to how Ms. Meyers couldn't have shot the victim.;0;M;R;3;0
+Player;Autopsy Report:line,215;Orange Envelope:line,215;Crime Scene Photo:line,223;Medical Report (Pg 1):line,215
+Will;Look at this!;1;L;W;4;0
+Judge;I don't see how this evidence proves anything.;0;M;W;3;0
+Judge;Do take this seriously, Mr. Armstrong.;0;M;W;3;0
+Health;3;0
+Will;Sorry, your Honor. Let me try again.;1;L;W;4;0
+Judge;Fine then. I'll repeat myself.;0;M;W;3;0
+Judge;Present your evidence as to how Ms. Meyers couldn't have shot the victim.;0;M;R;3;0
+Player;Autopsy Report:line,215;Orange Envelope:line,215;Crime Scene Photo:line,223;Medical Report (Pg 1):line,215
+Will;Look at this!;1;L;W;4;-1
+Will;This is a photo depicting the victim's body after it was analyzed by the police.;2;L;W;4;0
+Will;Notice anything?;1;L;W;4;0
+Judge;Well... no. I don't see anything peculiar here.;0;M;W;3;0
+Will;Exactly. There's nothing peculiar about this photo.;7;L;W;4;0
+Richards;What's your point, greenhorn?;0;R;W;5;0
+Will;Well, if Ms. Meyers really shot Mr. Sullivan, there would be some sort of bullet hole in his coat...;2;L;W;4;0
+Will;But, as the photo shows, there is none!;2;L;R;4;0
+Will;Ergo, she couldn't have shot Mr. Sullivan!;7;L;W;4;3
+Richards;Urk...;2;R;W;5;0
+Judge;I see! That does rule out the possibility, doesn't it!;1;M;W;3;0
+Yuri;Objection!;5;M;W;7;0
+Judge;...;1;M;W;3;0
+Richards;...;2;R;W;5;0
+Will;Wha...;3;L;W;4;0
+Yuri;D-Desist! I can explain!;5;M;W;7;0
+Judge;Care to enlighten us, Ms. Chang?;1;M;W;3;0
+Yuri;I-I know what I saw! I should have been more specific.;5;M;W;7;0
+Yuri;I apologize, but I thought my explanation was fine the way it was.;3;M;W;7;0
+Judge;If that's the case, then you may amend your testimony.;0;M;W;3;0
+Judge;Please inform us as to why there is no point of entry in the victim's coat.;0;M;W;3;-1
+Yuri;Testimony 2: Why There's No Bullet Hole;0;M;G;7;0
+Yuri;I was close to the office when it happened, actually.;3;M;G;7;3
+Yuri;She fired a shot underneath his jacket at point-blank!;6;M;G;7;0
+Yuri;That's why there was no hole in his coat.;1;M;G;7;0
+Yuri;BANG! And he fell to the desk.;3;M;G;7;0
+Yuri;She ran away after that, and so did I, to call the police!;2;M;G;7;0
+Judge;Hmmm...;0;M;W;3;-1
+Judge;If the defendant fired underneath the victim's jacket...;0;M;W;3;0
+Judge;...that would clear up the coat discrepancy and explain why the bullet was found in his chest.;0;M;W;3;0
+Richards;Well, greenhorn? Are you not satisfied?;0;R;W;5;0
+Will;Let me have my cross examination. I'll tell you after that, Richards.;1;L;W;4;0
+Richards;Hmph... Fine.;3;R;W;5;0
+Daniels;Armstrong, you may need a bit more information this time around.;0;M;W;6;0
+Daniels;You can't prove anything at this point.;1;M;W;6;0
+Daniels;If you want to get more information, you can press the witness.;0;M;W;6;0
+Daniels;That way, she will be a bit more specific with her words.;0;M;W;6;0
+Daniels;You may even be able to add an extra statement to the testimony.;1;M;W;6;0
+Will;Alright. I'll give it a shot.;5;M;W;6;0
+Will;(Press, then present. Alright, I've got this.);7;L;B;4;0
+Judge;You may proceed with your cross examination.;0;M;W;3;0
+Yuri;Cross Examination 2: Why There's No Bullet Hole;0;M;R;7;3
+Yuri;1) I was at the office door when it happened, actually.;3;M;G;7;0
+Player;Press:line,269;Present:line,267;Next Line:line,278
+Player;Autopsy Report:line,330;Orange Envelope:line,330;Cycle Page:line,268;Go Back:line,266
+Player;Crime Scene Photo:line,330;Medical Report (Pg 1):line,330;Cycle Page:line,267;Go Back:line,266
+Will;Wait a second!;1;L;W;4;0
+Will;I thought you said you were "walking through the halls close to the office.";2;L;W;4;0
+Yuri;I was! I had just arrived when the crashing sound occurred!;2;M;W;7;0
+Yuri;I wouldn't lie! Never!;3;M;W;7;0
+Will;(You can't fool me, Yuri...);1;M;B;4;0
+Richards;What does it matter, anyhow?;0;R;W;5;0
+Richards;Close or far, her account is still accurate.;3;R;W;5;0
+Will;(Hmmm. I guess so...);4;L;B;4;0
+Yuri;It does matter somewhat. If I was too far away, I wouldn't be able to see that...;2;M;W;7;0
+Yuri;2) She fired a shot underneath his jacket at point-blank!;6;M;G;7;0
+Player;Press:line,282;Present:line,280;Previous Line:line,265;Next Line:line,294
+Player;Autopsy Report:line,330;Orange Envelope:line,330;Cycle Page:line,281;Go Back:line,279
+Player;Crime Scene Photo:line,330;Medical Report (Pg 1):line,330;Cycle Page:line,280;Go Back:line,279
+Will;Wait a second!;1;L;W;4;0
+Will;Did you see how the defendant could have gotten the gun at point-blank range?;4;L;W;4;0
+Yuri;W-What do you mean?;2;M;W;7;0
+Will;If Ms. Meyers was to put a gun to his chest, I doubt he would be caught by surprise.;4;L;W;4;0
+Yuri;W-Well... I-uh.;5;M;W;7;0
+Yuri;Y-Yes! I did!;0;M;W;7;0
+Yuri;T-there was a fight...between her and Mr. Sullivan. A struggle! Yes!;2;M;W;7;0
+Yuri;Mr. Sullivan was fighting for control. But he lost!;3;M;W;7;0
+Judge;Hmm... That would explain it.;0;M;W;3;0
+Judge;Well, Mr. Armstrong? Was this important to your analysis?;1;M;R;3;0
+Player;Not important:line,293;Extremely important:line,344
+Judge;Very well, then. Please continue.;0;M;W;3;0
+Yuri;3) That's why there was no hole in his coat.;0;M;G;7;0
+Player;Press:line,298;Present:line,296;Previous Line:line,278;Next Line:line,307
+Player;Autopsy Report:line,330;Orange Envelope:line,330;Cycle Page:line,297;Go Back:line,295
+Player;Crime Scene Photo:line,330;Medical Report (Pg 1):line,330;Cycle Page:line,296;Go Back:line,295
+Will;Wait a second!;1;L;W;4;0
+Will;You didn't explain this discrepancy before!;2;L;W;4;0
+Will;Why didn't you note this?;1;L;W;4;0
+Yuri;I had recently witnessed a murder! Give me a break!;3;M;W;7;0
+Yuri;A dead body can muddle even the greatest of memories.;3;M;W;7;0
+Richards;Believe me, traumatic experiences can be quite haunting.;1;R;W;5;0
+Richards;It would be unwise to badger a witness over such a matter, wouldn't it, greenhorn?;0;R;W;5;0
+Will;...(Grrr... I hate it when you're right...);3;L;B;4;0
+Yuri;The sight of the body was nothing compared to the crashing sound...;0;M;W;7;0
+Yuri;4) BANG! And he fell to the desk.;3;M;G;7;0
+Player;Press:line,311;Present:line,309;Previous Line:line,294;Next Line:line,316
+Player;Autopsy Report:line,330;Orange Envelope:line,330;Cycle Page:line,310;Go Back:line,308
+Player;Crime Scene Photo:line,330;Medical Report (Pg 1):line,330;Cycle Page:line,309;Go Back:line,308
+Will;Wait a second!;1;L;W;4;0
+Will;He fell to his desk? Are you sure he fell over?;4;L;W;4;0
+Yuri;I didn't get that much of a look, but I'm sure he fell on his desk!;6;M;W;7;0
+Yuri;It would only be logical to fall over when your heart stops beating.;3;M;W;7;0
+Will;...(I guess..?);4;L;B;4;0
+Yuri;5) She ran away after that, and so did I, to call the police!;2;M;G;7;0
+Player;Press:line,320;Present:line,318;Previous Line:line,307;Next Line:line,324
+Player;Autopsy Report:line,330;Orange Envelope:line,330;Cycle Page:line,319;Go Back:line,317
+Player;Crime Scene Photo:line,330;Medical Report (Pg 1):line,330;Cycle Page:line,318;Go Back:line,317
+Will;Wait a second!;1;L;W;4;0
+Will;Where did you run to?;4;L;W;4;0
+Yuri;I went to the nearest telephone away from Mr. Sullivan's office.;2;M;W;7;0
+Yuri;I...had intermittently forgotten my cell phone when I left for Andromeda.;5;M;W;7;0
+Daniels;Remember, Will, press for more information.;1;M;W;6;0
+Daniels;Then, if you get the information you seek, present evidence that contradicts it.;0;M;W;6;0
+Will;Don't worry, Ms. Daniels. I can handle this.;5;M;W;6;0
+Will;(Press, then present. Simple.);4;L;B;4;0
+Will;Let's try this again.;1;L;W;4;0
+Player;Restart Testimony:line,265
+Will;Objection!;1;L;W;4;0
+Will;Your Honor, this evidence proves that the witness is lying!;2;L;W;4;0
+Judge;Really? How?;1;M;W;3;0
+Will;W-Well, it's...uh...quite clear that, uh...;3;L;W;4;0
+Judge;...I'm afraid that this evidence does nothing for your case.;0;M;W;3;0
+Judge;You will be penalized.;0;M;R;3;0
+Health;3;0
+Will;(This isn't good...);3;L;B;4;0
+Daniels;William, relax your Objection pointing finger.;4;M;W;6;0
+Daniels;You need to find out more before you present.;0;M;W;6;0
+Daniels;Press the witness to get more information.;0;M;W;6;0
+Daniels;Once you find out something new, then you can present.;1;M;W;6;0
+Will;Alright. I think I can handle this...;5;M;W;6;0
+Player;Restart Testimony:line,265
+Will;This is very important, actually. Please add it to the testimony.;1;L;W;4;0
+Judge;Very well. The witness will amend her testimony.;0;M;W;3;0
+Yuri;Y-Yes, your Honor...;5;M;W;7;0
+Player;Add to testimony.:line,361
+Yuri;1) I was at the office door when it happened, actually.;3;M;G;7;0
+Player;Press:line,352;Present:line,350;Next Line:line,361
+Player;Autopsy Report:line,418;Orange Envelope:line,418;Cycle Page:line,351;Go Back:line,349
+Player;Crime Scene Photo:line,418;Medical Report (Pg 1):line,418;Cycle Page:line,350;Go Back:line,349
+Will;Wait a second!;1;L;W;4;0
+Will;I thought you said you were "walking through the halls close to the office.";2;L;W;4;0
+Yuri;I was! I had just arrived when the crashing sound occurred!;3;M;W;7;0
+Yuri;I wouldn't lie! Never!;2;M;W;7;0
+Will;(You can't fool me, Yuri...);1;L;B;4;0
+Richards;What does it matter, anyhow?;0;R;W;5;0
+Richards;Close or far, her account is still accurate.;3;R;W;5;0
+Will;(Hmmm. I guess so...);1;L;B;4;0
+Yuri;It does matter somewhat. If I was too far away, I wouldn't be able to see that...;3;M;W;7;0
+Yuri;2a) There was a struggle between them, but he lost!;6;M;G;7;0
+Player;Press:line,365;Present:line,363;Previous Line:line,348;Next Line:line,370
+Player;Autopsy Report:line,430;Orange Envelope:line,418;Cycle Page:line,364;Go Back:line,362
+Player;Crime Scene Photo:line,418;Medical Report (Pg 1):line,418;Cycle Page:line,363;Go Back:line,362
+Will;Wait a second!;1;L;W;4;0
+Will;A struggle?!!;1;L;R;4;0
+Yuri;Yes! The two fought for control of the gun.;3;M;W;7;0
+Yuri;She was much stronger that she looked. She was pointing the gun despite his resistance.;3;M;W;7;0
+Yuri;I only caught a brief glance, but...;2;M;W;7;0
+Yuri;2b) She fired a shot underneath his jacket at point-blank!;6;M;G;7;0
+Player;Press:line,374;Present:line,372;Previous Line:line,361;Next Line:line,382
+Player;Autopsy Report:line,418;Orange Envelope:line,418;Cycle Page:line,373;Go Back:line,371
+Player;Crime Scene Photo:line,418;Medical Report (Pg 1):line,418;Cycle Page:line,372;Go Back:line,371
+Will;Wait a second!;1;L;W;4;0
+Will;Did you see how the defendant could have gotten the gun at point-blank range?;4;L;W;4;0
+Yuri;W-What do you mean?;2;M;W;7;0
+Will;If Ms. Meyers was to put a gun to his chest, I doubt he would be caught by surprise.;4;L;W;4;0
+Yuri;W-Well... I-uh.;6;M;W;7;0
+Yuri;Y-Yes! I did!;0;M;W;7;0
+Yuri;T-there was a fight...between her and Mr. Sullivan. A struggle! Yes!;3;M;W;7;0
+Yuri;Mr. Sullivan was fighting for control. But he lost!;3;M;W;7;0
+Yuri;3) That's why there was no hole in his coat.;0;M;G;7;0
+Player;Press:line,386;Present:line,384;Previous Line:line,370;Next Line:line,395
+Player;Autopsy Report:line,418;Orange Envelope:line,418;Cycle Page:line,385;Go Back:line,383
+Player;Crime Scene Photo:line,418;Medical Report (Pg 1):line,418;Cycle Page:line,384;Go Back:line,383
+Will;Wait a second!;1;L;W;4;0
+Will;You didn't explain this discrepancy before!;2;L;W;4;0
+Will;Why didn't you note this?;1;L;W;4;0
+Yuri;I had recently witnessed a murder! Give me a break!;3;M;W;7;0
+Yuri;A dead body can muddle even the greatest of memories.3;0;M;W;7;0
+Richards;Believe me, traumatic experiences can be quite haunting.;1;R;W;5;0
+Richards;It would be unwise to badger a witness over such a matter, wouldn't it, greenhorn?;0;R;W;5;0
+Will;...(Grrr... I hate it when you're right...);3;L;W;4;0
+Yuri;The sight of the body was nothing compared to the crashing sound...;3;M;W;7;0
+Yuri;4) BANG! And he fell to the desk.;3;M;G;7;0
+Player;Press:line,399;Present:line,397;Previous Line:line,382;Next Line:line,404
+Player;Autopsy Report:line,418;Orange Envelope:line,418;Cycle Page:line,398;Go Back:line,396
+Player;Crime Scene Photo:line,418;Medical Report (Pg 1):line,418;Cycle Page:line,397;Go Back:line,396
+Will;Wait a second!;1;L;W;4;0
+Will;He fell to his desk? Are you sure he fell over?;4;L;W;4;0
+Yuri;I didn't get that much of a look, but I'm sure he fell on his desk!;6;M;W;7;0
+Yuri;It would only be logical to fall over when your heart stops beating.;3;M;W;7;0
+Will;...(I guess..?);4;L;B;4;0
+Yuri;5) She ran away after that, and so did I, to call the police!;2;M;G;7;0
+Player;Press:line,408;Present:line,406;Previous Line:line,395;Next Line:line,412
+Player;Autopsy Report:line,418;Orange Envelope:line,418;Cycle Page:line,407;Go Back:line,405
+Player;Crime Scene Photo:line,418;Medical Report (Pg 1):line,418;Cycle Page:line,406;Go Back:line,405
+Will;Wait a second!;1;L;W;4;0
+Will;Where did you run to?;4;L;W;4;0
+Yuri;I went to the nearest telephone away from Mr. Sullivan's office.;2;M;W;7;0
+Yuri;I...had intermittently forgotten my cell phone when I left for Andromeda.;5;M;W;7;0
+Daniels;Will, you have some new information.;1;M;W;6;0
+Daniels;It would be best that you look at the added statement before you present.;0;M;W;6;0
+Will;Don't worry, Ms. Daniels. I've got this.;5;M;W;6;0
+Will;(Press, then present. Simple.);4;L;B;4;0
+Will;Let's try this again.;1;L;W;4;0
+Player;Restart Testimony:line,348
+Will;Objection!;1;L;W;4;0
+Will;Your Honor, this evidence proves that the witness is lying!;2;L;W;4;0
+Judge;Really? How?;1;M;W;3;0
+Will;W-Well, it's...uh...quite clear that, uh...;3;L;W;4;0
+Judge;...I'm afraid that this evidence does nothing for your case.;0;M;W;3;0
+Judge;You will be penalized.;0;M;R;3;0
+Health;3;0
+Will;(This isn't good...);3;L;B;4;0
+Daniels;You have the information you need. Now you need to use it.;1;M;W;6;0
+Daniels;Look at the statement that was just added and see if it contradicts anything in the Court Record.;0;M;W;6;0
+Will;Alright. I think I can handle this...;5;M;W;6;0
+Player;Restart Testimony:line,348
+Will;Objection!;1;L;W;4;-1
+Will;You said that Mr. Sullivan and Ms. Meyers were engaged in a struggle, correct?;2;L;W;4;0
+Will;You're certain?;1;L;W;4;0
+Yuri;W-What are you on about?!;6;M;W;7;0
+Yuri;Of course, I'm s-sure! I know what I saw.;1;M;W;7;0
+Will;It's difficult to imagine seeing that...;1;L;W;4;0
+Will;Since according to the Autopsy Report, there were no signs of a struggle!;2;L;W;4;3
+Yuri;Ahh-!;5;M;W;7;0
+Will;Your story is falling apart all too quickly, Ms. Chang!;7;L;W;4;0
+Will;According to the autopsy report, there couldn't have been a struggle for control of a firearm, or even a gunshot at all.;2;L;W;4;0
+Will;Therefore, Cynthia couldn't have shot Mr. Sullivan!;7;L;W;4;0
+Richards;Objection!;0;R;W;5;0
+Richards;If the defendant didn't shoot the victim, then why is there a bullet in his chest?;3;R;W;5;0
+Richards;If you can't explain that, then your assertions are false!;1;R;W;5;0
+Will;Objection!;1;L;W;4;0
+Will;You can't count me out yet! I can explain why the bullet is there!;7;L;W;4;0
+Yuri;What?!!;5;M;W;7;0
+Richards;W-What..?!;2;R;W;5;0
+Daniels;Can you really prove that, Armstrong?;1;M;R;6;0
+Will;You bet I can, Ms. Daniels. I can do this.;5;M;W;6;0
+Daniels;You sure are confident...;0;M;W;6;0
+Judge;Very well then, Mr. Armstrong. Please enlighten us.;0;M;W;3;0
+Will;The bullet inside Mr. Sullivan's chest was there...;1;L;R;4;0
+Player;For no reason.:line,454;After the murder.:line,462;Before the murder.:line,470
+Judge;For no reason? How could a bullet possibly be in his body for no reason?;1;M;W;3;0
+Will;O-Oh, I apologize. I didn't mean---;3;L;W;4;0
+Judge;Do not test the patience of this legal system, Mr. Armstrong!;2;M;W;3;0
+Judge;I'll make sure you receive a proper penalty!;2;M;W;3;0
+Health;3;0
+Will;Once again, I apologize.;3;L;W;4;0
+Will;What I meant to say was that the bullet was in his chest...;1;L;R;4;0
+Player;For no reason.:line,454;After the murder.:line,462;Before the murder.:line,470
+Judge;After the murder? How could Ms. Meyers possibly have put a bullet in his chest after he had died?;1;M;W;3;0
+Will;O-Oh, I apologize. I didn't mean---;3;L;W;4;0
+Judge;Do not test the patience of this legal system, Mr. Armstrong!;2;M;W;3;0
+Judge;I'll make sure you receive a proper penalty!;2;M;W;3;0
+Health;3;0
+Will;Once again, I apologize.;3;L;W;4;0
+Will;What I meant to say was that the bullet was in his chest...;1;L;R;4;0
+Player;For no reason.:line,454;After the murder.:line,462;Before the murder.:line,470
+Judge;Before the murder? You mean that Mr. Sullivan had this bullet before this happened?;1;M;W;3;0
+Will;It's the only possible explanation.;1;L;W;4;0
+Will;If we know that Cynthia couldn't have shot Mr. Sullivan...;2;L;W;4;0
+Will;...then that's the only way there would be a bullet in his chest...;1;L;W;4;0
+Richards;Your claim is quite bold. So bold, in fact...;3;R;W;5;0
+Richards;...that I doubt you have any proof to support it.;0;R;W;5;0
+Player;(Maybe he's right...):line,477;I can prove it.:line,485
+Will;(He may be right... I'm not sure if I can pull this off.);4;L;B;4;0
+Daniels;What are you doing, Armstrong?;1;M;W;6;0
+Will;I'm not sure if I can actually prove if the bullet was there before the murder.;5;M;W;6;0
+Daniels;Yes, you can! Think...;0;M;W;6;0
+Daniels;You should have a document that describes Mr. Sullivan's health condition before the incident.;1;M;W;6;0
+Daniels;That's your proof!;0;M;W;6;0
+Will;Ok. I'll try...;5;M;W;6;0
+Richards;Well? Has the greenhorn finally learned his place?;1;R;W;5;0
+Will;Not to worry, Richards. I know how much you like evidence.;1;L;W;4;0
+Will;I can prove it!;7;L;R;4;0
+Richards;What?;0;R;W;5;0
+Will;Mr. Sullivan had that bullet in his body before the incident.;2;L;W;4;0
+Will;...and this proves it!;1;L;R;4;0
+Player;Autopsy Report:line,491;Orange Envelope:line,491;Crime Scene Photo:line,491;Medical Report (Pg 1):line,500
+Will;Look at this!;1;L;W;4;0
+Judge;Mr. Armstrong, I'm not sure how this proves anything.;0;M;W;3;0
+Will;W-Well, it's...uh...quite clear that, uh...;3;L;W;4;0
+Judge;...I'm afraid that this evidence does nothing for your case.;0;M;W;3;0
+Judge;You will be penalized.;0;M;R;3;0
+Health;3;0
+Will;A-Apologies... But as I was saying,;3;L;W;4;0
+Will;This proves how the bullet was in his chest before the murder!;1;L;R;4;0
+Player;Autopsy Report:line,491;Orange Envelope:line,491;Crime Scene Photo:line,491;Medical Report (Pg 1):line,500
+Will;Look at this!;1;L;W;4;0
+Will;This is part of a medical report for Mr. Sullivan, your Honor.;2;L;W;4;0
+Will;If you notice, there are two lines highlighted in red, here.;2;L;W;4;0
+Judge;Hmmm, let's see here... "Bullet located near left ventricle...";0;M;R;3;0
+Judge;Ah!;1;M;W;3;0
+Yuri;Grrrr...;5;M;W;7;0
+Will;Yep. This medical record accounts for the bullet in his chest!;1;L;W;4;0
+Will;Not only that, but look at the date on the paper.;2;L;W;4;0
+Will;This document was created on January 12th, 2017.;2;L;W;4;0
+Will;In other words...;1;L;W;4;0
+Will;This document was made 6 months before the murder!;7;L;R;4;0
+Yuri;Eeeeek!!!;4;M;W;7;0
+Richards;Insolence! How could I miss something so vital?!!;2;R;W;5;0
+Richards;I read over that document countless times before its submission!;2;R;W;5;0
+Will;Looks like I'm not the only one prone to rookie mistakes!;7;L;W;4;0
+Richards;Y-you wretched-;2;R;W;5;0
+Yuri;No no no no NO-!;4;M;W;7;0
+Daniels;Excellent work, Armstrong! Color me impressed.;2;M;W;6;0
+Will;But it's not over. I think I know exactly what happened.;5;M;W;6;0
+Daniels;What? What do you mean?;1;M;W;6;0
+Will;All the evidence is coming together...;5;M;W;6;0
+Will;I think I know who killed Mr. Sullivan! All I have to do is prove it.;5;M;W;6;0
+Daniels;I don't follow, but I'll help you any way I can.;1;M;W;6;0
+Judge;So, Mr. Armstrong? Where does this leave us?;1;M;W;3;0
+Will;Well, we can officially rule out that Cynthia couldn't have shot the victim.;2;L;W;4;0
+Will;However, we have to determine what caused the heart failure.;4;L;W;4;0
+Will;And if old age isn't the culprit...;4;L;W;4;0
+Will;Then there would have to be some sort of chemical to induce the heart failure.;1;L;W;4;0
+Will;Aka, a poison...;7;L;W;4;0
+Richards;Objection!;0;R;W;5;0
+Richards;Y-You may have proven there were no shots fired, greenhorn...;3;R;W;5;0
+Richards;...but you certainly can't prove that there was poison involved!;2;R;W;5;0
+Richards;The police have already checked the scene for---;2;R;W;5;0
+Will;Objection!;1;L;W;4;0
+Will;Don't let you're pride lead you to conclusions, Richards!;7;L;W;4;0
+Will;I can prove just how Mr. Sullivan was poisoned.;1;L;W;4;0
+Will;All I ask is that I have one last testimony from Ms. Chang!;1;L;W;4;0
+Yuri;I've told you all I know!;4;M;W;7;0
+Yuri;I know what I s-saw..!;5;M;W;7;0
+Will;If you're really so adamant about what you saw...;4;L;W;4;0
+Will;I want you to testify about something else...;1;L;W;4;0
+Will;I want you to testify about why you went to Andromeda Hospital in the first place.;1;L;R;4;0
+Judge;Mr. Armstrong, are you sure this is important to the case?;1;M;W;3;0
+Will;It's extremely important, your Honor. Please grant me this request.;1;L;W;4;0
+Judge;Very well. Ms. Chang?;0;M;W;3;0
+Yuri;F-FINE! I'll testify!;4;M;W;7;0
+Yuri;Anything to get this nightmare over with!;4;M;W;7;0
+Yuri;Testimony 3: Lunch with Mr. Sullivan;4;M;G;7;-1
+Yuri;I-I was just called in for...lunch...with Sullivan!;4;M;G;7;4
+Yuri;I-I just brought in a canteen and some m-mugs.;5;M;G;7;0
+Yuri;There was no POISON in ANYTHING! I know what I saw!;4;M;G;7;0
+Judge;Hmm... That seems quite reasonable.;0;M;W;3;0
+Judge;Calling someone over to chat over a hot drink seems innocent enough.;1;M;W;3;0
+Richards;Your Honor, before the greenhorn speaks, I'd like to affirm Yuri's testimony.;1;R;W;5;0
+Richards;She did indeed carry a canteen and two regular-sized mugs.;3;R;W;5;0
+Richards;In fact, I recently submitted these items into to the Court Record.;3;R;W;5;0
+Judge;Very well. The Court accepts these into evidence.;0;M;W;3;0
+Evidence;Canteen and Mugs now usable;5;0
+Will;(Alright, I think I've got this figured out...);4;L;W;4;0
+Will;(I just need a bit more information...);1;L;W;4;0
+Daniels;William, where exactly is this heading?;1;M;W;6;0
+Will;If Cynthia is innocent and there were only two people there,;5;M;W;6;0
+Will;then that can only mean one thing...;5;M;W;6;0
+Daniels;Ah..!;1;M;W;6;-1
+Judge;You may begin your cross-examination, Mr. Armstrong.;0;M;W;3;0
+Yuri;Cross-Examination 3: Lunch with Mr. Sullivan;4;M;R;7;4
+Yuri;1) I-I was just called in for...lunch...with Sullivan!;4;M;G;7;0
+Player;Press:line,571;Present:line,568;Next Line:line,582
+Player;Autopsy Report:line,621;Orange Envelope:line,621;Cycle Page:line,569;Go Back:line,567
+Player;Crime Scene Photo:line,621;Medical Report (Pg 1):line,621;Cycle Page:line,570;Go Back:line,567
+Player;Canteen and Mugs:line,621;:line,570;Cycle Page:line,568;Go Back;:line,567
+Will;Wait a second!;1;L;W;4;0
+Will;Could you please describe the call?;4;L;W;4;0
+Richards;Objection!;0;R;W;5;0
+Richards;Your Honor, this is completely irrelevant.;2;R;W;5;0
+Richards;The call has nothing to do with the case!;2;R;W;5;0
+Richards;What matters is that she was there, period!;3;R;W;5;0
+Will;H-Hey! This is important!;3;L;W;4;0
+Daniels;Actually, he's right... This is irrelevant.;4;M;W;6;0
+Daniels;How would knowing the contents of the call help you?;0;M;W;6;0
+Will;(I... guess you're right...);5;M;B;6;0
+Will;(But there has to be something in her testimony. I just have to find it!!);4;L;B;4;0
+Yuri;2) I-I brought in a canteen and some m-mugs.;5;M;G;7;0
+Player;Press:line,587;Present:line,584;Previous Line:line,566;Next Line:line,605
+Player;Autopsy Report:line,621;Orange Envelope:line,621;Cycle Page:line,585;Go Back:line,583
+Player;Crime Scene Photo:line,621;Medical Report (Pg 1):line,621;Cycle Page:line,586;Go Back:line,583
+Player;Canteen and Mugs:line,621;:line,586;Cycle Page:line,584;Go Back:line,583
+Will;Wait a second!;1;L;W;4;0
+Will;Do you remember the specific drink that you brought with the canteen and mugs?;4;L;W;4;0
+Yuri;I-It was-;4;M;W;7;0
+Richards;Objection!;0;R;W;5;0
+Richards;Irrelevant, greenhorn! The type of drink is inconsequential to the death.;3;R;W;5;0
+Will;Objection!;1;L;W;4;0
+Will;On the contrary, it's extremely important!;7;L;W;4;0
+Will;It's the key factor of this whole case!;2;L;R;4;0
+Richards;Objection!;0;R;W;5;0
+Richards;I will not stand for this! This matter is trivial!;2;R;W;5;0
+Richards;Your Honor?;2;R;W;5;0
+Judge;Hmmm... Considering that the possibility of a gunshot is out of the question,;0;M;W;3;0
+Judge;...I am curious as to what angle the defense if currently taking.;0;M;W;3;0
+Judge;Objection Overruled!;0;M;W;3;0
+Richards;I-Inconceivable!;2;R;W;5;0
+Judge;Mr. Armstrong, is this really as important as you say it is?;1;M;R;3;0
+Player;Extremely important:line,634;Not that important:line,604
+Judge;If that's the case, then you may continue.;0;M;W;3;0
+Yuri;3) There was no POISON in ANYTHING! I know what I saw!;5;M;G;7;0
+Player;Press:line,610;Present:line,607;Previous Line:line,582;Next Line:line,615
+Player;Autopsy Report:line,621;Orange Envelope:line,621;Cycle Page:line,608;Go Back:line,606
+Player;Crime Scene Photo:line,621;Medical Report (Pg 1):line,621;Cycle Page:line,609;Go Back:line,606
+Player;Canteen and Mugs:line,621;:line,609;Cycle Page:line,607;Go Back:line,606
+Will;Wait a second!;1;L;W;4;0
+Will;Are you certain?;2;L;W;4;0
+Yuri;YES! I KNOW that he was shot by that woman!;4;M;W;7;0
+Yuri;The loud crashing sound, the bullet in his chest, it's all because of her!;5;M;W;7;0
+Yuri;And your accursed Autopsy Report CAN'T sway me the think otherwise!!!;4;M;W;7;0
+Will;(I know this! I know what happened!);1;L;B;4;0
+Will;(Yet Yuri's testimony isn't helping...);4;L;B;4;0
+Will;(I need some more information!);4;L;B;4;0
+Daniels;I believe in you, William. You know what you're doing.;0;M;W;6;0
+Will;Right. Thank you, Ms. Daniels.;5;M;W;6;0
+Player;Restart Testimony:line,566
+Will;Objection!;1;L;W;4;0
+Will;Your Honor, this evidence proves that the witness is lying!;2;L;W;4;0
+Judge;Really? How?;1;M;W;3;0
+Will;W-Well, it's...uh...quite clear that, uh...;3;L;W;4;0
+Judge;...I'm afraid that this evidence does nothing for your case.;0;M;W;3;0
+Judge;You will be penalized.;0;M;R;3;0
+Health;3;0
+Daniels;William, are you sure you know what you're doing?;4;M;W;6;0
+Will;I know what happened, but I don't know how to prove it.;5;M;W;6;0
+Daniels;Just remember: Press, then present.;0;M;W;6;0
+Daniels;Get back in there!;2;M;W;6;0
+Will;Right...;5;M;W;6;0
+Player;Restart Testimony:line,566
+Will;This is incredibly important, your Honor.;1;L;W;4;0
+Judge;Very well. This statement will be added to the testimony.;0;M;W;3;0
+Player;Add to testimony:line,653
+Yuri;1) I-I was just called in for...lunch...with Sullivan!;4;M;G;7;0
+Player;Press:line,642;Present:line,639;Next Line:line,653
+Player;Autopsy Report:line,680;Orange Envelope:line,680;Cycle Page:line,640;Go Back:line,638
+Player;Crime Scene Photo:line,680;Medical Report (Pg 1):line,680;Cycle Page:line,641;Go Back:line,638
+Player;Canteen and Mugs:line,680;:line,641;Cycle Page:line,639;Go Back:line,638
+Will;Wait a second!;1;L;W;4;0
+Will;Could you please describe the call?;2;L;W;4;0
+Richards;Objection!;0;R;W;5;0
+Richards;Your Honor, this is completely irrelevant.;2;R;W;5;0
+Richards;The call has nothing to do with the case!;2;R;W;5;0
+Richards;What matters is that she was there, period!;3;R;W;5;0
+Will;H-Hey! This is important!;3;L;W;4;0
+Daniels;Actually, he's right... This is irrelevant.;4;M;W;6;0
+Daniels;How would knowing the contents of the call help you?;0;M;W;6;0
+Will;(I... guess you're right...);5;M;B;6;0
+Will;(But there has to be something in her testimony. I just have to find it!!);4;L;B;4;0
+Yuri;2) I...I only brought TEA in that canteen! That's all!;5;M;G;7;0
+Player;Press:line,658;Present:line,655;Previous Line:line,637;Next Line:line,665
+Player;Autopsy Report:line,680;Orange Envelope:line,680;Cycle Page:line,656;Go Back:line,654
+Player;Crime Scene Photo:line,680;Medical Report (Pg 1):line,680;Cycle Page:line,657;Go Back:line,654
+Player;Canteen and Mugs:line,693;:line,657;Cycle Page:line,655;Go Back:line,654
+Will;Wait a second!;1;L;W;4;0
+Will;Are you sure it was only tea? You didn't mix in anything else?;4;L;W;4;0
+Yuri;Of course not! Just green, herbal tea!;4;M;W;7;0
+Richards;Quit badgering the witness, greenhorn.;2;R;W;5;0
+Richards;You got your drink, so desist!;2;R;W;5;0
+Will;... (Fine. I'll back off...);1;L;B;4;0
+Will;(But I know that this is important! I just need to figure out why.);4;L;B;4;0
+Yuri;3) There was no POISON in ANYTHING! I know what I saw!;4;M;G;7;0
+Player;Press:line,670;Present:line,667;Previous Line:line,653;Next Line:line,675
+Player;Autopsy Report:line,680;Orange Envelope:line,680;Cycle Page:line,668;Go Back:line,666
+Player;Crime Scene Photo:line,680;Medical Report (Pg 1):line,680;Cycle Page:line,669;Go Back:line,666
+Player;Canteen and Mugs:line,680;:line,669;Cycle Page:line,667;Go Back:line,666
+Will;Wait a second!;1;L;W;4;0
+Will;Are you certain?;4;L;W;4;0
+Yuri;YES! I KNOW that he was shot by that woman!;4;M;W;7;0
+Yuri;The loud crashing sound, the bullet in his chest, it's all because of her!;5;M;W;7;0
+Yuri;And your accursed Autopsy Report CAN'T sway me the think otherwise!!!;4;M;W;7;0
+Will;(I have everything I need, I just need to use the tools I've been given.);4;L;B;4;0
+Will;(She's not getting away!);1;L;B;4;0
+Daniels;I believe in you, William. You can do this.;0;M;W;6;0
+Will;Right. Thank you, Ms. Daniels.;5;M;W;6;0
+Player;Restart Testimony:line,637
+Will;Objection!;1;L;W;4;0
+Will;Your Honor, this evidence proves that the witness is lying!;2;L;W;4;0
+Judge;Really? How?;1;M;W;3;0
+Will;W-Well, it's...uh...quite clear that, uh...;3;L;W;4;0
+Judge;...I'm afraid that this evidence does nothing for your case.;0;M;W;3;0
+Judge;You will be penalized.;0;M;R;3;0
+Health;3;0
+Daniels;William, are you sure you know what you're doing?;4;M;W;6;0
+Will;I know what happened, but I don't know how to prove it.;5;M;W;6;0
+Daniels;Just remember: Press, then present.;1;M;W;6;0
+Daniels;You can do this... I believe in you.;0;M;W;6;0
+Will;Right.;5;M;W;6;0
+Player;Restart Testimony:line,637
+Will;Objection!;1;L;W;4;-1
+Will;You said that you only brought herbal tea in your canteen and mugs?;2;L;W;4;0
+Yuri;YES, you cur! YES! I only brought TEA in those things!!!;0;M;W;7;0
+Will;Enough lies, Ms. Chang. There was no tea found anywhere near your canteen.;1;L;W;4;0
+Will;In fact, the only traces that can be seen here are traces of coffee. Espresso to be precise!;2;L;W;4;4
+Yuri;Eeeeek!!!;0;M;W;7;0
+Judge;But, why does this matter?;1;M;W;3;0
+Judge;If there was no poison in the cups, then what does it matter if the drink was coffee or tea?;1;M;W;3;0
+Yuri;Y-Yes! Precisely!!!;0;M;W;7;0
+Yuri;What does it matter about the drink?!!;2;M;W;7;0
+Will;Actually, the drink is incredibly important.;1;L;R;4;0
+Will;And I have evidence to prove just how important it really is!;7;L;W;4;0
+Richards;Well then, present it.;1;R;W;5;0
+Will;Huh?;1;L;W;4;0
+Richards;Present the reason as to why this drink is so incredibly important.;0;R;W;5;0
+Richards;The shrill voice of this unreliable witness is beginning to wear down my patience.;1;R;W;5;0
+Will;(Richards...);1;L;B;4;0
+Will;Alright, I will.;1;L;W;4;0
+Will;This is why the drink in Yuri's canteen is so important!;7;L;R;4;0
+Player;Autopsy Report:line,714;Orange Envelope:line,714;Crime Scene Photo:line,714;Cycle Page:line,713
+Player;Medical Report (Pg 1):line,724;Canteen and Mugs:line,714;:line,713;Cycle Page:line,712
+Will;Look at this!;2;L;W;4;0
+Judge;Mr. Armstrong, I'm not sure how this proves anything.;0;M;W;3;0
+Will;W-Well, it's...uh...quite clear that, uh...;3;L;W;4;0
+Judge;...I'm afraid that this evidence does nothing for your case.;0;M;W;3;0
+Judge;You will be penalized.;0;M;R;3;0
+Health;3;0
+Will;A-Apologies... But as I was saying,;3;L;W;4;0
+Will;This is why the drink in Yuri's canteen is so important!;1;L;R;4;0
+Player;Autopsy Report:line,714;Orange Envelope:line,714;Crime Scene Photo:line,714;Cycle Page:line,723
+Player;Medical Report (Pg 1):line,724;Canteen and Mugs:line,714;:line,723;Cycle Page:line,722
+Will;Look at this!;2;L;W;4;0
+Judge;The medical report? What does this prove?;1;M;W;3;0
+Will;The last time I brought this up, I said that there were two lines highlighted in red.;2;L;W;4;0
+Will;If you would, please read the second highlighted line.;1;L;W;4;0
+Judge;Certainly.;0;M;W;3;0
+Judge;"...Avoid caffeine to prevent complications...";0;M;R;3;0
+Will;Exactly. Caffeine would increase alertness, yes...;4;L;W;4;0
+Will;But it also increases heart rate.;1;L;R;4;0
+Judge;And?;1;M;W;3;0
+Will;Remember that bullet in the victim's chest... the bullet that was proven to be there before the murder.;4;L;W;4;0
+Will;If the heart were to pump faster, it could move that bullet at a faster rate.;2;L;W;4;0
+Daniels;And once that bullet touched the heart...;0;M;W;6;0
+Richards;It would fail...and he would die...;1;R;W;5;0
+Judge;Aha! You don't mean...;1;M;W;3;0
+Will;That's right. A sip of coffee could be the difference between life and death.;2;L;W;4;0
+Will;The coffee didn't contain poison... The coffee...;1;L;W;4;-1
+Will;...WAS THE POISON!!;7;L;R;4;5
+Judge;Incredible! Could you really be insinuating what I think you are insinuating?;1;M;W;3;0
+Will;I am, your Honor. And this is the truth.;7;L;W;4;0
+Will;Ms. Chang knew all of this. She knew about Mr. Sullivan's weakness...;1;L;W;4;0
+Will;And if she was the only other person there...;1;L;W;4;0
+Will;Yuri Chang would have to be the murderer!;7;L;R;4;0
+Yuri;W-w-w-WHAAAAT!!!!;4;M;W;7;0
+Richards;Greenhorn! What is the meaning of this?!!;2;R;W;5;0
+Richards;Your logic... it's absolutely insane!;2;R;W;5;0
+Will;Is it really, Richards? I've gotten this far after all.;1;L;W;4;0
+Yuri;Y-Yes it is, you s-slobbering MONGREL!!!;4;M;W;7;0
+Yuri;I am no MURDERER!!! You can't do this to ME!!!;4;M;W;7;0
+Yuri;My testimony! Account for my TESTIMONY! I DID NOT enter his room!!!;5;M;W;7;0
+Yuri;I ran for the PHONE! I didn't see Mr. Sullivan until he was DEAD!;4;M;W;7;0
+Will;That's a lie, Ms. Chang. And I can prove that.;1;L;W;4;0
+Will;I know exactly where you were when Mr. Sullivan died, and I have proof!;7;L;R;4;0
+Yuri;W-WHAT!;5;M;W;7;0
+Will;You had to be in Mr. Sullivan's office. And this proves why!;1;L;R;4;0
+Player;Autopsy Report:line,760;Orange Envelope:line,760;Crime Scene Photo:line,770;Cycle Page:line,759
+Player;Medical Report (Pg 1):line,760;Canteen and Mugs:line,760;:line,759;Cycle Page:line,758
+Will;Look at this!;2;L;W;4;0
+Judge;Mr. Armstrong, I'm not sure how this proves anything.;0;M;W;3;0
+Will;W-Well, it's...uh...quite clear that, uh...;3;L;W;4;0
+Judge;...I'm afraid that this evidence does nothing for your case.;0;M;W;3;0
+Judge;You will be penalized.;0;M;R;3;0
+Health;3;0
+Will;A-Apologies... But as I was saying,;3;L;W;4;0
+Will;Yuri had to be in Mr. Sullivan's office. And this proves why!;1;L;R;4;0
+Player;Autopsy Report:line,760;Orange Envelope:line,760;Crime Scene Photo:line,770;Cycle Page:line,769
+Player;Medical Report (Pg 1):line,760;Canteen and Mugs:line,760;:line,769;Cycle Page:line,768
+Will;Look at this!;1;L;W;4;0
+Will;This photo shows the crime scene, if you recall.;2;L;W;4;0
+Will;Pay particular attention to the contents of Mr. Sullivan's desk.;2;L;W;4;0
+Judge;Well, I see some coffee cups and a canteen there...;0;M;W;3;0
+Judge;Wait a minute...;2;M;W;3;0
+Will;Aha. There is a canteen and some coffee mugs on his desk.;1;L;W;4;0
+Will;And if you look closely enough, you can see...;2;L;W;4;0
+Will;...Those are the same as Yuri's canteen and mugs in the court record!;2;L;W;4;0
+Will;Ergo, Yuri WAS in the room with Mr. Sullivan!;1;L;R;4;0
+Yuri;n-No... T-this isn't happening...;5;M;W;7;0
+Will;It's time we all found out the truth about this murder!;1;L;W;4;0
+Will;At the time of the murder,Ms. Meyers left the office.;2;L;W;4;0
+Will;After she left, Yuri came in to talk with Mr. Sullivan over lunch.;2;L;W;4;0
+Will;Little did he know, Yuri brought in coffee instead of tea, knowing full well that the coffee would kill him.;2;L;W;4;0
+Will;They talk, Mr. Sullivan takes a sip, and his heart stops beating.;1;L;W;4;0
+Will;"BANG! And he fell to the desk," while Ms. Chang made her escape!;7;L;W;4;0
+Richards;...;0;R;W;5;-1
+Daniels;...;1;M;W;6;0
+Judge;...;1;M;W;3;0
+Will;Well, Ms. Chang. Any more objections?;7;L;W;4;0
+Yuri;...;6;M;W;7;0
+Yuri;......;6;M;W;7;0
+Yuri;.........................heh.;7;M;W;7;0
+Yuri;Heh, heh, heh, heh...;7;M;P;7;6
+Will;(What is she doing..?);3;L;W;4;0
+Yuri;You...you're quite the jester, aren't you?;7;M;P;7;0
+Yuri;You've conjured such a grand tale about me, yet you lack one single thing.;7;M;P;7;0
+Will;W-what?;1;L;W;4;0
+Yuri;You can't prove that I knew about Mr. Sullivan's condition.;7;M;P;7;0
+Yuri;You can't prove that I knew he would die if he drank coffee.;7;M;P;7;0
+Yuri;For all you know, I accidentally gave a kid with peanut allergy something with peanuts in it.;7;M;P;7;0
+Yuri;Am I really a heartless killer, or simply an unknowing innocent?;7;M;P;7;0
+Will;B-but all the evidence agrees!!!;2;L;W;4;0
+Will;You murdered Mr. Sullivan!;1;L;W;4;0
+Yuri;Yet you're missing something very crucial. A decisive piece of evidence. ;7;M;P;7;0
+Yuri;Without that, your entire story is utter rubbish.;7;M;P;7;0
+Yuri;Just...;7;M;P;7;0
+Yuri;like...;7;M;P;7;0
+Yuri;you..!;8;M;P;7;0
+Will;(S-she's right...);1;L;B;4;0
+Will;(I can't prove that she knew about the bullet in Mr. Sullivan's chest.);3;L;B;4;0
+Will;(Dammit! I almost had her!);3;L;B;4;0
+Judge;The witness does have a valid point.;0;M;W;3;0
+Judge; Mr. Armstrong, can you prove that she was aware of Mr. Sullivan's condition?;1;M;W;3;0
+Will;...;3;L;W;4;0
+Will;...N-no, your Honor. I...can't.;3;L;W;4;0
+Yuri;Hmph. That's enough out of the imbecile. I can't believe this.;2;M;W;7;0
+Yuri;I've done nothing to deserve this. Being treated like a criminal.;1;M;W;7;0
+Yuri;Being compared to the scoundrel who haunt this planet.;2;M;W;7;0
+Yuri;It's sickening. Let me leave.;3;M;W;7;0
+Will;(I...can't believe this.);3;L;B;4;0
+Will;(How can I not prove this?!!);3;L;B;4;0
+Will;(Ms. Daniels, Cynthia, I'm sorry. I failed...);3;L;B;4;0
+Cynthia;HOLD IT!;0;M;W;6;-1
+Judge;;1;M;W;3;0
+Richards;;0;R;W;5;0
+Yuri;;0;M;W;7;0
+Cynthia;;0;M;W;6;0
+Cynthia;Cynthia, to the rescue!;2;M;W;6;4
+Will;Cynth?! What are you doing here?!!;6;M;W;6;0
+Cynthia;Will, you can't give up!;0;M;W;6;0
+Cynthia;There's one last piece of evidence that you haven't used yet!;0;M;W;6;0
+Cynthia;Do you remember what it is?!!;0;M;W;6;0
+Will;I think so... Isn't it...;6;M;W;6;0
+Player;The Autopsy Report?:line,835;The Crime Scene Photo?:line,835;The Orange Envelope?:line,839
+Cynthia;No, no, no! You need to remember!;1;M;W;6;0
+Cynthia;I gave you something before the trial started.;0;M;W;6;0
+Cynthia;Do you remember what it is?;0;M;W;6;0
+Player;The Autopsy Report?:line,835;The Crime Scene Photo?:line,835;The Orange Envelope?:line,839
+Cynthia;Yeah, that's the one!;2;M;W;6;0
+Cynthia;It's a stretch, but I think this is what Mr. Sullivan meant before he passed!;0;M;W;6;0
+Will;Don't open it until the time is right...;6;M;W;6;0
+Cynthia;Well, Will, the time is here and now!;0;M;W;6;0
+Cynthia;If you've gotten this far, it must be right!;2;M;W;6;0
+Cynthia;Open the envelope!;0;M;W;6;0
+Will;Ok, Cynth. Here goes nothing!;6;M;W;6;0
+Will;...;6;M;W;6;-1
+Will;Wait a minute... Is this?;6;M;W;6;0
+Evidence;Medical Report (Page 2) added to the Court Record.;6;0
+Will;It IS!;6;M;W;6;5
+Will;This can prove her guilt!;6;M;W;6;0
+Cynthia;Then use it!;2;M;W;6;0
+Will;Your Honor! I can prove it!;1;L;W;4;0
+Will;I can prove that Ms. Chang knew about the bullet in Mr. Sullivan's chest!;2;L;W;4;0
+Judge;Then, by all means, do so, Mr. Armstrong! This is your cross-examination.;1;M;W;3;0
+Judge;Prove that Ms. Chang knew about the bullet in his chest!;2;M;R;3;0
+Player;Autopsy Report:line,858;Orange Envelope:line,868;Crime Scene Photo:line,858;Cycle Page:line,857
+Player;Medical Report (Pg 1):line,858;Canteen and Mugs:line,858;Medical Chart (Page 2):line,868;Cycle Page:line,856
+Will;Look at this!;2;L;W;4;0
+Judge;Mr. Armstrong, I'm not sure how this proves anything.;0;M;W;3;0
+Will;W-Well, it's...uh...quite clear that, uh...;3;L;W;4;0
+Judge;...I'm afraid that this evidence does nothing for your case.;0;M;W;3;0
+Judge;You will be penalized.;0;M;R;3;0
+Health;3;0
+Will;A-Apologies... Let me try this again.;3;L;W;4;0
+Judge;Very well. What prove's Ms. Chang's connection to Mr. Sullivan?;0;M;G;3;0
+Player;Autopsy Report:line,858;Orange Envelope:line,868;Crime Scene Photo:line,858;Cycle Page:line,867
+Player;Medical Report (Pg 1):line,858;Canteen and Mugs:line,858;Medical Chart (Page 2):line,868;Cycle Page:line,866
+Will;Look at this!;2;L;W;4;0
+Judge;Is this another medical report?;1;M;W;3;0
+Will;Not just any other report.;1;L;W;4;0
+Will;This is the missing page of Mr. Sullivan's Medical Report.;2;L;W;4;0
+Will;It describes a failed surgery-;2;L;W;4;0
+Yuri;What? W-Where did you get that?!;9;M;W;7;0
+Will;This page was given to Cynthia about five minutes before the murder.;1;L;W;4;0
+Will;With your permission, I would like to read this aloud.;7;L;W;4;0
+Yuri;NO! Y-You CAN'T!;9;M;W;7;0
+Judge; Permission Granted. Let's hear this...;0;M;W;3;0
+Will;"January 12th, 2017. Bullet lodged too close to the heart to operate successfully.";2;L;W;4;0
+Will;"Operation headed by: Dr. Yuri Chang!";2;L;R;4;0
+Yuri;No.;9;M;W;7;-1
+Yuri;NO!!!.;4;M;W;7;0
+Yuri;NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!;10;M;W;7;0
+Yuri;;6;M;W;7;0
+Richards;;0;R;W;5;0
+Judge;;1;M;W;3;0
+Will;;7;L;W;4;0
+Yuri;.......;6;M;W;7;0
+Yuri;...........Y-you...;6;M;P;7;0
+Yuri;...What...is your name......?;6;M;W;7;0
+Will;..?;1;L;W;4;0
+Will;...William. William Armstrong.;1;L;W;4;0
+Yuri;Armstrong...;6;M;W;7;0
+Yuri;You... remind me a lot of Sullivan.;6;M;W;7;0
+Yuri;Diligent...steadfast...;6;M;W;7;0
+Yuri;Impertinent...;6;M;P;7;0
+Yuri;Heh...heheheheh...;7;M;W;7;0
+Yuri;I should have killed you too...;9;M;P;7;0
+Yuri;...;6;M;P;7;0
+Will;I...;3;L;W;4;0
+Will;...rest my case...;1;L;W;4;0
+Event;East-West Courtroom #1 | Date: July 26th, 2017 | Time: 5:00 pm;0;0
+Judge;Mr. Richards. Can you please explain what just happened?;0;M;W;3;2
+Richards;Ms. Chang was taken by the bailiffs. She has admitted to everything.;1;R;W;5;0
+Richards;We will bring her back soon to determine her charges.;1;R;W;5;0
+Judge;Excellent. Mr. Armstrong?;0;M;W;3;0
+Will;Yes, your Honor?;1;L;W;4;0
+Judge;In all my years of experience, I don't believe I've ever seen such an exemplary performance from a beginner.;1;M;W;3;0
+Judge;You should be proud!;1;M;W;3;0
+Will;Aww, well, I guess...;4;L;W;4;0
+Richards;I agree. I was wrong to treat you with such contempt.;1;R;W;5;0
+Richards;My pride ended up costing me this trial. I should have been less arrogant.;1;R;W;5;0
+Richards;You have my attention, greenhor-, I mean, Armstrong...;0;R;W;5;0
+Will;T-Thank you, Mr. Richards...;1;L;W;4;0
+Judge;Well, at this point, I see no reason to prolong this trial any further.;1;M;W;3;0
+Judge;I hereby declare the defendant, Cynthia Meyers...;0;M;W;3;0
+Judge;NOT GUILTY;0;M;Y;3;-1
+Judge;Court is adjourned.;1;M;W;3;0
+Player;Celebrate!:scene,3
+Judge;I'm afraid you've made too many mistakes today, Mr. Armstrong.;2;M;W;3;-1
+Judge;I cannot rely on your judgement.;2;M;W;3;0
+Will;No! Give me another chance, please!;3;L;W;4;0
+Judge;I'm sorry, but it must be decided.;2;M;W;3;0
+Judge;I hereby declare the defendant, Cynthia Meyers...;2;M;W;3;0
+Judge;...GUILTY;2;M;P;3;0
+Event;...;0;6
+Event;...A few days after the trial, William Armstrong mysteriously vanished without telling anyone...;0;0
+Event;...He couldn't bear the burden of convicting his own girlfriend.;0;0
+Event;...He disappeared, never to be seen again.;0;0
+Event;...GAME OVER...;0;0
+Player;Restart:scene,1;Exit game:exit,0
