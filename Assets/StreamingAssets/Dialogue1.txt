@@ -1,0 +1,107 @@
+Event;East-West Court Lobby | Date: July 26th, 2017 | Time: 2:00 pm;1;0
+Will;(Oh man, it's really hot in here...);0;M;B;1;1
+Will;(I really shouldn't have put on such a hot shirt, I'm sweating up a storm...);0;M;B;1;0
+Daniels;Armstrong!;0;M;W;1;0
+Will;Ack, Ms. Daniels! H-How are you?;5;M;W;1;0
+Daniels;The real question is, how are you, William?;1;M;W;1;0
+Daniels;I haven't seen an attorney sweat this much since...;0;M;W;1;0
+Daniels;Well, I don't think I've ever seen an attorney sweat THIS much...;3;M;W;1;0
+Daniels;Are you sure you're up for this?;0;M;W;1;0
+Will;Yes, yes, yes! I-I'm ok! You know I am!;5;M;W;1;0
+Daniels;The river flowing under you convinces me otherwise...;0;M;W;1;0
+Will;*cough* (Why must I be cursed this way...);5;M;B;1;0
+Daniels;In any case, I hope you've been staying informed on our case!;0;M;W;1;0
+Daniels;I don't need to remind you of just how important your first case is.;1;M;W;1;0
+Will;A murder case, nonetheless...;5;M;W;1;0
+Daniels;Indeed! If I may ask...;1;M;W;1;0
+Daniels;Why would you accept such a daunting case as your first?;0;M;W;1;0
+Will;Well, actually, I'm doing this for someone important...;5;M;W;1;0
+Cynthia;WIIIILLLLLLLLLL!!!;2;M;W;1;0
+Will;There she is now...;5;M;W;1;0
+Cynthia;WILL! Thank GOODNESS, you're here!;0;M;W;1;0
+Will;Glad to see you're still ok, Cynth. How are you holding up?;6;M;W;1;0
+Cynthia;You won't BELIEVE how awful the detention center can be!;1;M;W;1;0
+Cynthia;Those police asked me so many questions! They treated me like a CRIMINAL!;1;M;W;1;0
+Cynthia;I kept saying I was innocent, but they were just so...cold...;1;M;W;1;0
+Cynthia;I'm just glad I can see a warm face again...;0;M;W;1;0
+Daniels;Now, now, Ms. Meyers. Mr. Armstrong needs to focus.;0;M;W;1;0
+Daniels;We wouldn't want his river of sweat to turn into an ocean.;3;M;W;1;0
+Will;(Don't tempt fate, Amelia...);5;M;B;1;0
+Cynthia;You know I believe in you, William Armstrong!;0;M;W;1;0
+Cynthia;Where there's a Will, there's a way!;2;M;W;1;0
+Will;(Gee, never heard that one before...);6;M;B;1;0
+Cynthia;I'll be right next to you, hon. So, don't you worry!;0;M;W;1;0
+Cynthia;I know I'm in good hands!;2;M;W;1;0
+Daniels; She's definitely a keeper, isn't she?;3;M;W;1;0
+Daniels;You heard her! You'd better not disappoint!;0;M;W;1;0
+Will;Not to worry, Ms. Daniels. I've got this case memorized to the letter!;5;M;W;1;0
+Daniels;Is that so? Well then, I suppose a test is in order.;1;M;W;1;0
+Will;Is it now..?;5;M;W;1;0
+Daniels;If you really remember this case "to the letter"...;0;M;W;1;0
+Daniels;...you'll have no trouble, correct?;3;M;W;1;0
+Will;...correct.;5;M;W;1;0
+Daniels;Very well. First question.;0;M;W;1;0
+Daniels;Just to make sure you were paying attention...;0;M;W;1;0
+Daniels;Tell me, who is this defendant?;1;M;R;1;0
+Player;Cynthia Meyers:line,58;Brian O' Sullivan:line,47;Larry Butz:line,47
+Daniels;Really now? You don't know who you're defending?;4;M;W;1;0
+Will;I-I must have mis-clicked! Let me have a redo!;5;M;W;1;0
+Daniels;The judge doesn't give "redos". But very well.;4;M;W;1;0
+Daniels;To help you out, you can look at the Court Record.;0;M;R;1;0
+Daniels;It is extremely useful for reviewing your case and evidence!;0;M;W;1;0
+Daniels;Make it your best friend. Got it?;1;M;W;1;0
+Will;Got it...*cough*;5;M;W;1;0
+Daniels;Let's try this again.;0;M;W;1;0
+Daniels;You have a client to defend, and he/she is very important to you in this case.;0;M;W;1;0
+Daniels;Who is your defendant?;1;M;R;1;0
+Player;Cynthia Meyers:line,58;Brian O' Sullivan:line,54;Larry Butz:line,54
+Daniels;Excellent! Next question.;2;M;W;1;0
+Daniels;This is a murder trial. Who is the victim?;0;M;R;1;0
+Will;Oh! Oh! I know this one! It's...it's...;5;M;W;1;0
+Daniels;Let me save you before you drown in your own sweat...;3;M;W;1;0
+Daniels;You are familiar with the Court Record, yes?;0;M;W;1;0
+Daniels;Take a look at it often. It will help you with your case.;0;M;W;1;0
+Will;Gotcha. Use the Court Record frequently and pay attention...;5;M;G;1;0
+Daniels;Exactly. Now, onto the question.;0;M;W;1;0
+Daniels;Who is the murder victim?;1;M;R;1;0
+Player;Graham Richards:line,61;Brian O' Sullivan:line,68;April May:line,61
+Daniels;Perfect! One more question.;2;M;W;1;0
+Daniels;When was Mr. Sullivan officially declared dead?;0;M;R;1;0
+Will;I can't answer that! Not even the Court Record has that!;5;M;W;1;0
+Daniels;I thought you memorized this case to the letter...;4;M;W;1;0
+Will;*cough...*;5;M;W;1;0
+Daniels;Ha ha! I'm joking! I know you can't answer that.;3;M;W;1;0
+Daniels;Not without some evidence at least! Here.;0;M;W;1;0
+Evidence;Autopsy Report added to the Court Record;1;0
+Will;What's this?;5;M;W;1;0
+Daniels;This is Mr. Sullivan's autopsy report.;0;M;G;1;0
+Daniels;It describes when, where, and how he died.;0;M;W;1;0
+Daniels;Read over it, won't you? It's one of your best pieces of evidence.;0;M;W;1;0
+Will;G-Got it!;5;M;W;1;0
+Daniels;If you're done reading over it...;1;M;W;1;0
+Daniels;Please tell me when Mr. Sullivan died.;1;M;R;1;0
+Player;July 14th, 2017:line,89;July 14th, 2016:line,84;February 14th, 2017:line,84
+Daniels;Are you sure you read the report fully?;4;M;W;1;0
+Will;I...guess not?;5;M;W;1;0
+Daniels;Read over it again, thoroughly.;1;M;W;1;0
+Daniels;Now, please tell me when Mr. Sullivan died.;0;M;R;1;0
+Player;July 14th, 2017:line,89;July 14th, 2016:line,84;February 14th, 2017:line,84
+Daniels;Excellent! You've answered all of my questions.;2;M;W;1;0
+Daniels;I suppose we should head on in now that you're warmed up!;0;M;W;1;0
+Will;Yeah! I think this test helped calm my nerves a bit too...;5;M;W;1;0
+Daniels; I'm glad! That river is looking more like a pond!;2;M;W;1;0
+Will;Heh heh...(Is it really..?);5;M;B;1;0
+Daniels;Alright, let's head on in. Whenever you're ready.;0;M;W;1;0
+Will;Ok.;5;M;W;1;0
+Cynthia;WAIT! Will!;0;M;W;1;-1
+Will;What?! What is it, Cynth?;6;M;W;1;0
+Cynthia;Before you go, I need to give you this.;0;M;W;1;0
+Evidence;Orange Envelope added to the Court Record.;1;0
+Cynthia;Mr. Sullivan gave this to me before...he passed.;1;M;W;1;0
+Cynthia;He told me "Do not to open it until the time is right," whatever that means.;0;M;W;1;0
+Cynthia;I'm sure the court will ask about it, so keep it handy, okay?;0;M;W;1;0
+Will;Ok, Cynth. I'll hang onto it.;6;M;W;1;0
+Cynthia;Thanks, Will. I know I can count on you!;0;M;W;1;0
+Cynthia;Get in there and show 'em what for!;2;M;W;1;0
+Will;Alright, Cynth. I sure will!;6;M;W;1;0
+Player;Go to the courtroom:scene,2
